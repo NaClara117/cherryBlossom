@@ -2,12 +2,12 @@
   "name": "cherryblossom",
   "displayName": "Cherry Blossom",
   "description": "my cute pink-green theme",
-  "publisher": "naclara",
+  "publisher":"NaClara117",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
-  "icon": "/icon/icon.png",
+  "icon": "icon/icon.png",
   "author": {
     "name": "NaClara",
     "email": "analves.ax@gmail.com"
