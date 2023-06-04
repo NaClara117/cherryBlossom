@@ -1,0 +1,31 @@
+{
+  "name": "cherryblossom",
+  "displayName": "Cherry Blossom",
+  "description": "my cute pink-green theme",
+  "publisher": "naclara",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "icon": "/icon/icon.png",
+  "author": {
+    "name": "NaClara",
+    "email": "analves.ax@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/AnaXP/cherryBlossom.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cherryBlossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cherryBlossom-color-theme.json"
+      }
+    ]
+  }
+}
